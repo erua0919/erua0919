@@ -2,7 +2,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=erua0919)](https://solved.ac/erua0919)
-
+[![github](https://img.shields.io/github/followers/erua0919?logo=github&style=plastic)](https://github.com/erua0919?tab=followers)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=erua0919)](https://solved.ac/erua0919)
 [![Solved.ac
