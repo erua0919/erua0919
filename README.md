@@ -17,8 +17,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erua0919&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erua0919&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
+<!--
 [![wakatime](https://wakatime.com/badge/user/41c7e070-3a79-49e1-a127-94cfdd00fdfb.svg)](https://wakatime.com/@41c7e070-3a79-49e1-a127-94cfdd00fdfb)
-
+-->
 
 
 
