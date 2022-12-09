@@ -38,7 +38,9 @@
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="75" height="75"/></a> &nbsp;
 <a href="#">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="75" height="75"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
+<a href="#">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="75" height="75"/></a>
 <br><br>
 
 <a href="#">
